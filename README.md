@@ -1,36 +1,120 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Сергей
-==============================================================================================================================
+#  Балбашов Сергей — Разработчик встраиваемых систем
+📍 Нижний тагил, Россия | 📞 +7 (912) 683-13-83 | ✉️ SergeyBalbashov@yandex.ru | [GitHub](https://github.com/Sergeras1) | [Kwork](https://kwork.ru/user/Sergey_Balbashov)
 
-Embedded-разработчик
---------------------
-Я являюсь C/C++ разработчиком с опытом более 2-х лет в прикладном ПО и embedded-системах (ATmega328p, STM32, ESP8266/32). Пишу высокоэффективный код с акцентом на оптимизацию памяти и производительности. Глубокие знания STL, многопоточности, low-level программирования. Глубокие знания в электротехнике и схемотехнике. Активно слежу за развитием стандартов C++. В настоящее время работаю инженером-программистом на предприятии. Вне работы решаю задачи на LeetCode, работаю на фрилансе, разрабатывая прошивки для STM32 и ESP32 и разрабатываю прикладное ПО на фреймворке Qt.
+---
 
-* 🌍  Я живу в Нижнем Тагиле
-* 🖥️  Смотрите мое портфолио на [Kwork](https://kwork.ru/user/sergey_balbashov)
-* ✉️  Вы можете со мной связаться по почте: [SergeyBalbashov@yandex.ru](mailto:SergeyBalbashov@yandex.ru)
-* 🚀  В настоящее время я работаю над проектом: [Умной метеостанцией](http://github.com/Sergeras1/Smart_weather_station)
-* 🧠  Изучаю тонкости Embedded-разработки и схемотехники
+## 🧠 Кратко обо мне
 
-### Скиллы
+Разработчик встраиваемых систем с 2+ годами практики разработки прошивок для микроконтроллеров STM32 и AVR. Имею уверенные знания C/C++, опыт работы с периферией (UART, SPI, I2C, PWM, ADC). Увлекаюсь схемотехникой, разбираюсь в архитектуре ARM Cortex-M. Имею опыт работы в команде и ведения проектов с нуля.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+---
 
-### Социальные сети
+## 🛠️ Технологии и стек
 
-<p align="left"> <a href="https://www.github.com/Sergeras1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://t.me/SergeyBalbashov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a></p>
+- **Языки:** C, C++, Delphi, SQL
+- **Микроконтроллеры:** STM32 (F1, F4), AVR (ATmega328, ATmega32U4), ESP32/8266
+- **Интерфейсы:** UART, SPI, I2C, PWM, ADC, GPIO
+- **Инструменты:** STM32CubeMX, STM32CubeIDE, Visual Studio, Keil, KiCAD, Arduino IDE, Qt Creater, Git
+- **Протоколы:** ESB, TCP, UDP, HTTP
+- **Операционные системы:** Linux (Ubuntu), Windows
 
-<b>Моя статистика на GitHub</b>
+---
 
-<a href="http://www.github.com/Sergeras1"><img src="https://github-readme-stats.vercel.app/api?username=Sergeras1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sergeras1's GitHub stats" /></a>
+## 📂 Опыт работы
 
-<a href="https://github.com/Sergeras1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergeras1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Инженер-программист
+**АО «Научно-производственная корпорация "Уралвагонзавод" имени Ф. Э. Дзержинского" | Нижний Тагил | 16.07.2024 — настоящее время**  
+**Проект:** Разработка CRUD-систем для автоматизации производства
+- Разработал и оптимизировал CRUD-систему
+- Написал хранимые процедуры на SQL
+- Оптимизировал хранимые процедуры в базе данных, увеличив скорость работы сервера на 14%
+- Внедрил CRUD-систему с нуля в производственные цеха
 
-<b>Топ репозиториев</b>
+**Стек:** Delphi, SQL
 
-<div width="100%" align="center"><a href="https://github.com/Sergeras1/FaceScan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergeras1&repo=FaceScan&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sergeras1/Smart_weather_station" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergeras1&repo=Smart_weather_station&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### Разработчик встаиваемых систем 
+**Kwork | Нижний Тагил | 2025 — настоящее время**  
+**Проект:** Разработка прошивок для STM32
+- Разработал с нуля систему передачи данных по радиоканалу с шифрованием
+- Разработал с нуля систему управления положения солнечных панелей
+- Дорабатывал и оптимизировал действующий код 
 
-<br /><br /><br /><br /><br />
+**Стек:** C/C++, STM32(F1, F4), UART, SPI, ADC, PWM
 
-<div width="100%" align="center"><a href="https://github.com/Sergeras1/https://github.com/Sergeras1/AutoSort_Arduino" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergeras1&repo=https://github.com/Sergeras1/AutoSort_Arduino&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sergeras1/https://github.com/Sergeras1/-arduino" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergeras1&repo=https://github.com/Sergeras1/-arduino&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+### Инженер-программист
+**АО «Научно-производственная корпорация "Уралвагонзавод" имени Ф. Э. Дзержинского" | Нижний Тагил | 22.04.2024 - 18.05.2024**  
+**Проект:** Нейросеть по распознаванию лиц
+- Разработал нейросеть для распознавания лиц и синхронизировал с микроконтроллером ATmega 328p
+
+**Стек:** C++, Arduino IDE, Visual studio
+
+### Тестировщик
+** ООО “iRidi”,  | Нижний Тагил | 22.11.2022 - 29.03.2023**  
+---
+
+### 💡 Ключевые проекты
+
+- **[Передача и прием данных по зашифрованному радиоканалу: ](https://github.com/Sergeras1/Receiver-and-transmitter)**
+  - Реализовал двухстороннюю передачу данных с AES-128 шифрованием
+  - Управление по SPI радиомодуля RF24
+  - Вывод логов по UART на ПК
+  - Отображение статуса на двух дисплеев SSD1306
+
+- **[Сервис управления Wi-Fi устройствами: ](https://github.com/Sergeras1/Smart_weather_station)**
+  - Разработал TCP/IP сервер на C++, который используется как главный хаб между программой на Qt Creater и устройством на базе микроконтроллера ESP8266
+  - Написал прошивку для МК ESP8266, которая принимает от датчика DHT11 температуру и влажность и отправляет на сервер
+  - Разработал программу на фреймворке Qt, где пользователь может отслеживать данные с устройства
+
+- **[Автоматический поворот солнечной панели: ](https://github.com/Sergeras1/-arduino)**
+  - Написал прошивку STM32F103C8T6 для управления сервоприводами по АЦП, используя 4 фоторезисторов и два сервопривода, которые настраиваю нужное положение солнечной панели (ADC + PWM)
+  - Реализовал передачу данных через UART на ПК и отладку по логам
+
+- **[Нейросеть + ATmega328P: ](https://github.com/Sergeras1/FaceScan)**
+  - Разработал нейросеть по распознаванию лиц через веб-камеру компьютера
+  - Написал прошивку для микроконтроллера ATmega328P, где по UART принимает решение нейросети
+  - Открытие дверей с помощью сервопривода
+  - Отображение информации на дисплей LCD1603
+  - Проигрывание аудиозаписи через динамик
+
+- **[Автополив: ](https://github.com/Sergeras1/Solar_Panel)**
+  - Написал прошивку для ATmega328P для управления автополивом
+  -  Насос подключен через реле 10А
+  -  Считывания данных через датчик влажности почвы(HW-482) и датчик температуры и влажности воздуха(DHT11)
+  -  Отображения данных по дисплею LCD1603
+  -  Отображение логов по UART на ПК
+
+- **[Сортировка по цвету: ](https://github.com/Sergeras1/AutoSort_Arduino)**
+  - Написал прошивку для ATmega328P для сортировки вещей по цвету
+  - Считывание цвета предмета через дачтчик цвета (TCS-3472)
+  - Открытие нужной крышки с помощью сервопривода исходя от цвета
+  - Проигрывание аудиозаписи через динамик
+  - Отображение информации на ПК через UART
+---
+
+## 🎓 Образование
+
+**УрФУ, Нижнетагильский машиностроительный техникум**  
+СПО, Специальность: "Компьютерные системы и комплексы", 2021–2024
+**Диплом** "Разработка нейросети по распазнованию лиц и синхронизация с микроконтроллером ATmega328P"
+
+**УрФУ, Нижнетагильский технологический институт**  
+Бакалавр, Специальность: "КТОМП", 2024 - 2029 (заочно)
+
+---
+
+## 📚 Дополнительное обучение
+
+- 📘 **Инжинириум "C++ Базовый"** — МГТУ им. Баумана
+- 📘 **Базовый C++** — Stepik 
+- 📘 **C++ Продвинутый** — Stepik
+- 📘 **Объектно-ориентированное программирование в C++** — Роберт Лафоре
+- 📘 **Паттерны проектирования** — Эрик Фримен, Робсон Элизабет, Берт Бейтс, Кэти Сьерра
+
+---
+
+## 🏆 Достижения
+
+- Участник хакатона «Цифровой прорыв. Сезон искусственный интеллект» — участник - 2022
+- Победитель хакатона "Инженерные кадры для цифровой экономики: машиностроение" - 2022
+
+---
