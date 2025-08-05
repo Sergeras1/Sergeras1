@@ -1,5 +1,5 @@
 #  Балбашов Сергей — Разработчик встраиваемых систем
-📍 Нижний тагил, Россия | 📞 +7 (912) 683-13-83 | ✉️ SergeyBalbashov@yandex.ru | [GitHub](https://github.com/Sergeras1) | [Kwork](https://kwork.ru/user/Sergey_Balbashov)
+📍 Екатеринбург, Россия | 📞 +7 (912) 683-13-83 | ✉️ SergeyBalbashov@yandex.ru | [GitHub](https://github.com/Sergeras1) | [Kwork](https://kwork.ru/user/Sergey_Balbashov)
 
 ---
 
